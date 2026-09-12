@@ -86,7 +86,7 @@ select * from dept;
 
 -- COMMAND ----------
 
-show tables in sql_catalog.sql_schema;
+show tables in sql_catalog.sql_schema;  
 
 -- COMMAND ----------
 
